@@ -1,6 +1,7 @@
 ## Comandos GIT
 
-[x] git clone
-[x] git commit -m "nome-do-commit-aqui" 
-[x] git status 
-[x] git push
+- [x] git status 
+- [x] git clone
+- [x] git add . ou git add "nome-do-arquivo"
+- [x] git commit -m "nome-do-commit-aqui" 
+- [x] git push
